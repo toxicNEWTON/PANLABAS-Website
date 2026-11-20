@@ -1,0 +1,7 @@
+PANLABAS v3 UPDATED 2026-11-21
+1. Removed 110px staggered margin on desktop gallery. All four tiles have uniform aspect ratios and grid alignment.
+2. Replaced four gallery images with distinct high-resolution concept styles: coastal, Japanese zen, desert, tropical.
+3. Immersive visual changed to Dubai villa with Chinese-inspired landscape from paired visual concept.
+4. Before/After slider uses two halves of ONE generated comparison visual, preserving viewpoint; labels updated; fixed CSS sizing and resize synchronization.
+5. These are illustrative/generated conceptual visuals, not real project photos.
+6. Browser-level manual visual testing has NOT been performed.
